@@ -1,0 +1,28 @@
+## Dining Process Simulation Log
+
+### 1. Seating Guests:
+- Welcome guests at the entrance.
+- Ask for the reservation name or preferences.
+- Lead guests to their assigned table.
+- Provide menus and explain any specials.
+
+### 2. Taking Orders:
+- Approach the table to take drink and food orders.
+- Discuss menu items, making recommendations based on guest preferences.
+- Confirm orders back to the guests for accuracy.
+
+### 3. Serving Food:
+- Notify the kitchen to prepare the orders.
+- Serve drinks first, followed by appetizers, main courses, and desserts.
+- Check in with guests to ensure satisfaction with their meals.
+
+### 4. Handling Payments:
+- Present the bill when guests have finished their meal.
+- Accept various forms of payment (cash, card, mobile payments).
+- Thank the guests for their visit and invite them to return.
+
+### Example Simulation:
+- **Seating Guests:** "Welcome! Do you have a reservation?"
+- **Taking Orders:** "What would you like to drink? Any appetizers to start?"
+- **Serving Food:** "Here's your pasta. Enjoy your meal!"
+- **Handling Payments:** "Here's your bill. Thank you for dining with us!"
